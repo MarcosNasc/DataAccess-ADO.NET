@@ -1,0 +1,17 @@
+CREATE DATABASE [crud]
+
+USE [crud]
+
+CREATE TABLE [Contact]
+(
+    [Id] INT IDENTITY(1,1) NOT NULL,
+    [Name] NVARCHAR(120) NOT NULL,
+    [Email] NVARCHAR(180) NOT NULL,
+    [Phone] NVARCHAR(20) NULL,
+    [Birthdate] DATETIME NULL,
+    [CreateDate] DATETIME NOT NULL DEFAULT(GETDATE()),
+    CONSTRAINT [PK_Student] PRIMARY KEY ([Id])
+);
+
+
+
