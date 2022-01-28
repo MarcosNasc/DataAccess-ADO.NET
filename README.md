@@ -53,7 +53,7 @@ Sobre o seu projeto
 :heavy_check_mark: CREATE\
 :heavy_check_mark: READ\
 :heavy_check_mark: UPDATE\
-:heavy_check_mark: DELETE\
+:heavy_check_mark: DELETE
 
 ## :rocket: Tecnologias
 
