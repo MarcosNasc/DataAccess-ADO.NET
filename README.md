@@ -46,7 +46,7 @@
 
 ## :dart: Sobre
 
-Aplicação Console com operações de CRUD utilizando SQL SERVER e ADO.NET
+Aplicação Console com operações de CRUD utilizando SQL SERVER e ADO.NET,
 Esse projeto foi criado como projeto dE aprendizado a Acesso a dados com C#
 
 ## :sparkles: Funcionalidades
