@@ -53,7 +53,7 @@ Console application with CRUD operations using SQL SERVER and ADO.NET
 :heavy_check_mark: CREATE;\
 :heavy_check_mark: READ;\
 :heavy_check_mark: UPDATE;\
-:heavy_check_mark: DELETE;\
+:heavy_check_mark: DELETE;
 
 ## :rocket: Technologies
 
