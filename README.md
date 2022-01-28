@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="DataAccess" />
+  <!-- <img src="./.github/app.gif" alt="DataAccess" /> -->
 
 &#xa0;
 
@@ -9,13 +9,13 @@
 <h1 align="center">DataAccess ADO.NET</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/dataaccess?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{MarcosNasc}}/dataaccess?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/dataaccess?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{MarcosNasc}}/dataaccess?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/dataaccess?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{MarcosNasc}}/dataaccess?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/dataaccess?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/{{MarcosNasc}}/dataaccess?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/dataaccess?color=56BEB8" /> -->
 
@@ -33,12 +33,12 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#dart-about">About/Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features/Recursos</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies/Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements/Requerimentos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting/Iniciando/</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License/Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
 
@@ -51,13 +51,14 @@ Aplicação Console com operações de CRUD utilizando SQL SERVER e ADO.NET
 ## :sparkles: Features
 
 :heavy_check_mark: CREATE;\
-:heavy_check_mark: READ 2;\
-:heavy_check_mark: UPDATE 3;\
-:heavy_check_mark: DELETE 3;\
+:heavy_check_mark: READ;\
+:heavy_check_mark: UPDATE;\
+:heavy_check_mark: DELETE;\
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
+Neste projeto foram utilizadas as seguintes ferramentas:
 
 - [.NET C#](https://docs.microsoft.com/pt-br/dotnet/)
 - [ADO.NET](https://docs.microsoft.com/pt-br/dotnet/framework/data/adonet/)
@@ -65,6 +66,8 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [.NET](https://dotnet.microsoft.com/en-us/download) and [SQLSERVER](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads?SilentAuth=1&wa=wsignin1.0)installed.
+
+Antes de iniciar :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [.NET](https://dotnet.microsoft.com/en-us/download) e [SQLSERVER] (https://www.microsoft.com/pt-br/sql-server/sql-server-downloads?SilentAuth=1&wa=wsignin1.0)instalado.
 
 ## :checkered_flag: Starting
 
@@ -85,6 +88,10 @@ $ dotnet run
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 Made with :heart: by <a href="https://github.com/{{MarcosNasc}}" target="_blank">{{Marcos Nascimento}}</a>
+
+Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](LICENSE.md).
+
+Feito com :heart: por <a href="https://github.com/{{MarcosNasc}}" target="_blank">{{Marcos Nascimento}}</a>
 
 &#xa0;
 
