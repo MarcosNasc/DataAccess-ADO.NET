@@ -3,89 +3,96 @@
 
 &#xa0;
 
-  <!-- <a href="https://dataaccess.netlify.app">Demo</a> -->
+  <!-- <a href="https://dataaccess.netlify.com">Demo</a> -->
 </div>
 
 <h1 align="center">DataAccess ADO.NET</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/MarcosNasc/dataaccess?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/MarcosNasc/dataaccess?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/MarcosNasc/dataaccess?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/MarcosNasc/dataaccess?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MarcosNasc/dataaccess?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/MarcosNasc/dataaccess?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/MarcosNasc/dataaccess?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/MarcosNasc/dataaccess?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/dataaccess?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/MarcosNasc/dataaccess?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/dataaccess?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/MarcosNasc/dataaccess?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/dataaccess?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/MarcosNasc/dataaccess?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center">
-	🚧  DataAccess 🚀 Under construction...  🚧
+	🚧  DataAccess 🚀 Em construção...  🚧
 </h4>
 
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting/</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
+  <a href="https://github.com/MarcosNasc" target="_blank">Autor</a>
 </p>
 
 <br>
 
-## :dart: About
+## :dart: Sobre
 
-Console application with CRUD operations using SQL SERVER and ADO.NET
+Sobre o seu projeto
 
-## :sparkles: Features
+## :sparkles: Funcionalidades
 
 :heavy_check_mark: CREATE\
 :heavy_check_mark: READ\
 :heavy_check_mark: UPDATE\
-:heavy_check_mark: DELETE
+:heavy_check_mark: DELETE\
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
-The following tools were used in this project:
+As seguintes ferramentas foram usadas na construção do projeto:
 
-- [.NET C#](https://docs.microsoft.com/pt-br/dotnet/)
+- [.NET C#](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
 - [ADO.NET](https://docs.microsoft.com/pt-br/dotnet/framework/data/adonet/)
 
-## :white_check_mark: Requirements
+## :white_check_mark: Pré requisitos
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [.NET](https://dotnet.microsoft.com/en-us/download) and [SQLSERVER](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads?SilentAuth=1&wa=wsignin1.0)installed.
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [.NET](https://dotnet.microsoft.com/en-us/download) e [SQLSERVER](https://docs.microsoft.com/pt-br/dotnet/framework/data/adonet/) instalados em sua maquina.
 
-## :checkered_flag: Starting
+## :checkered_flag: Começando
 
 ```bash
-# Clone this project
+# Clone este repositório
 $ git clone https://github.com/MarcosNasc/dataaccess
 
-# Access
+# Entre na pasta
 $ cd dataaccess
 
-# Run the project
+# Abrir Visual Studio Code
+$ code .
+
+# Abrir terminar
+$ Ctrl + J
+
+# Iniciar App
 $ dotnet run
 
+# O app vai inicializar no terminal
 ```
 
-## :memo: License
+## :memo: Licença
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-Made with :heart: by <a href="https://github.com/MarcosNasc" target="_blank">Marcos Nascimento</a>
+Feito com :heart: por <a href="https://github.com/MarcosNasc" target="_blank">Marcos Nascmento</a>
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Voltar para o topo</a>
